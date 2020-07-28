@@ -144,9 +144,3 @@ body{
     }
 }
 
-@media(max-width: 835px){
-    body{
-        max-width: 650px;
-    }
-
-}

@@ -103,12 +103,6 @@ body{
     text-align: justify;
 }
 
-@media(max-width: 1025px){
-    body{
-        max-width: 760px;
-    }
-}
-
 
 @media (max-width: 420px) { 
     body{
@@ -152,12 +146,3 @@ body{
     }
 }
 
-
-@media(max-width: 835px){
-    body{
-        max-width: 650px;
-    }
-    .grid-img{
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
